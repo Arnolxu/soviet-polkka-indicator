@@ -1,5 +1,6 @@
 # soviet-polkka-indicator
-Soviet Polkka Sound Indicator for GNOME.
+Soviet Polkka Sound Indicator for GNOME.<br />
+All sound levels are same.
 ### First Step: <br />
 `sudo git clone https://github.com/Comrade-Otaku/soviet-polkka-indicator/`<br /> <br />
 ### Second Step: 
