@@ -4,6 +4,6 @@ Soviet Polkka Sound Indicator for GNOME.
 `sudo git clone https://github.com/Comrade-Otaku/soviet-polkka-indicator/`<br /> <br />
 ### Second Step: 
 (Replace `youricontheme` with your icon theme's name. If scalable/status doesn't exist, then idk what to do.)<br />
-`yes | cp -rf soviet-polkka-indicator/*.svg /usr/share/icons/youricontheme/scalable/status/`<br /> <br />
+`cp -rf soviet-polkka-indicator/*.svg /usr/share/icons/youricontheme/scalable/status/`<br /> <br />
 ### Third Step:<br />
 Run ALT+F2 and run the command  `r`.<br />If you are using Wayland, you have to logout and login.
